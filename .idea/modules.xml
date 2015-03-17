@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Slothkit.iml" filepath="$PROJECT_DIR$/Slothkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/app.iml" filepath="$PROJECT_DIR$/samples/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slothkit/slothkit.iml" filepath="$PROJECT_DIR$/slothkit/slothkit.iml" />
+    </modules>
+  </component>
+</project>
+
