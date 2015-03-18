@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Slothkit.iml" filepath="$PROJECT_DIR$/Slothkit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/samples/app.iml" filepath="$PROJECT_DIR$/samples/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/samples.iml" filepath="$PROJECT_DIR$/samples/samples.iml" />
       <module fileurl="file://$PROJECT_DIR$/slothkit/slothkit.iml" filepath="$PROJECT_DIR$/slothkit/slothkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slothkit.android.iml" filepath="$PROJECT_DIR$/slothkit.android.iml" />
     </modules>
   </component>
 </project>
